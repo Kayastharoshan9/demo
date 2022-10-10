@@ -1,0 +1,5 @@
+print("Hello world of python")
+print("Roshan")
+print("Banepa-5,kavre")
+print("9860463403")
+print("kayastharoshan9@gmail.com")
